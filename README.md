@@ -9,7 +9,7 @@
 <b>NOME: </b>
 <div style="position: relative; left: 120px; top:-18px;"><b>NASCIMENTO:</b></div>
 <p>Hugo Bolzan</p>
-<div style="position: relative; left: 120px; top: -500px;">29/04/2005</div>
+<div style="position: relative; left: 120px; top:500px;">29/04/2005</div>
 <h2>Sobre mim:
 </h2> Hugo, ex jogador profissional de basquete, viciado em jogos e atualmente explodindo a cabeça
 <br>cursando ciência da computacão na UVV (universiade de vila velha). 
