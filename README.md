@@ -1,6 +1,6 @@
 <html>
     <head>
-       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+       <link rel="shortcut icon" type="image/x-icon" href="[favicon.ico](https://raw.githubusercontent.com/HughCoding/Hugh.github.io/main/favicon.ico)">
     </head>
     <body>
         <h1><center>Portfólio</center></h1>
