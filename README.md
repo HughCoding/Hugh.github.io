@@ -7,7 +7,7 @@
         <body style="background-color:#f1ffc4">
         </body>
 <b>NOME: </b>
-<div style="position: relative; left: 120px; top:-18px;"><b>NASCIMENTO:</b></div>
+<div style="position: relative; left: 120px; top:-10px;"><b>NASCIMENTO:</b></div>
 <p>Hugo Bolzan</p>
 <div style="position: relative; left: 120px; top:-10px;">29/04/2005</div>
 <h2>Sobre mim:
