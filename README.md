@@ -22,6 +22,6 @@
     <li>Proativo</li>
 </ul>
 <h2>Minhas redes sociais</h2>
-<img src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-logo-do-cone-do-instagram.png" alt="instagram">
+<img src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-logo-do-cone-do-instagram.png" width="60px" alt="instagram">
 </body>
 </html>
