@@ -4,7 +4,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=chrome">
     <meta name="viewport" content="width=device-width,
     inicial-scale=1.0">
-    <title>Portfólio</title>
     </head>
 <body>
     <header>
