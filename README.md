@@ -1,27 +1,38 @@
-<html>
-    <head>
-       <link rel="shortcut icon" type="image/x-icon" href="[favicon.ico](https://raw.githubusercontent.com/HughCoding/Hugh.github.io/main/favicon.ico)">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=chrome">
+    <meta name="viewport" content="width-device-width,
+    inicial-scale=1.0">
+    <title>Portfólio</title>
     </head>
-    <body>
-        <h1><center>Portfólio</center></h1>
-        <body style="background-color:#f1ffc4">
-        </body>
-<b>NOME: </b>
-<div style="position: relative; left: 120px; top:-50px;"><b>NASCIMENTO:</b></div>
-<p>Hugo Bolzan</p>
-<div style="position: relative; left: 120px; top:-40px;">29/04/2005</div>
-<h2>Sobre mim:
-</h2> Hugo, ex jogador profissional de basquete, viciado em jogos e atualmente explodindo a cabeça
-<br>cursando ciência da computacão na UVV (universiade de vila velha). 
-<b>
-<h3>Pontos fortes</h3></b>
-<ul>
-    <li>Confiante</li>
-    <li>Colaborativo</li>
-    <li>Organizado</li>
-    <li>Proativo</li>
-</ul>
-<h2>Minhas redes sociais</h2>
-<img src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-logo-do-cone-do-instagram.png" width="60px" alt="instagram">
+<body>
+    <!--Cabeçalho-->
+    <header>
+       <table>
+        <tr>
+            <td>
+<img src="https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png"  width="100px" alt="pato">
+            </td>
+            <td>
+                <h1>Hugo Bolzan</h1>
+            </td>
+        </tr>
+       </table> 
+    </header>
+    <br>
+    <!--Detalhes pessoais-->
+    <section>
+        <h2>Detalhes Pessoais</h2>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <h3>Nome</h3>
+                </td>
+                <td>
+                    <p>Hugo Bolzan</p>
+                </td>/
+            </tr>
+        </table>
+    </section>
 </body>
-</html>
