@@ -12,7 +12,7 @@
             <td>
 <img src="https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png"  width="100px" alt="profile image">
             </td>
-            <td></td>
+            <td>
                 <h1>Hugo Bolzan</h1>
                 <br>
                 Email: hgxhandsome1@gmail.com <br>
@@ -60,8 +60,7 @@
     <a href="https://github.com/HughCoding" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-512.png" width="100px" alt="Github">
     </a>
-    </body>
-    </html>
+
     
            
             
