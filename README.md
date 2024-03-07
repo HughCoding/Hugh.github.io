@@ -5,21 +5,18 @@
     <meta name="viewport" content="width=device-width,
     inicial-scale=1.0">
     </head>
+
 <body>
-    <header>
-       <table>
+    <table align="center", width="45%", border="1" style="background-color: rgb(161, 210, 216);">
         <tr>
-            <td>
-<img src="https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png"  width="100px" alt="profile image">
-            </td>
-            <td>
-                <h1>Hugo Bolzan</h1>
-                <br>
-                Email: hgxhandsome1@gmail.com <br>
-                Telefone: 02799761-1547
-            </td>
+            <th>
+                <h1>Hugo Bolzan</h1>   
+<img src="https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png"  width="120px" alt="profile image"><br>
+    Email: hgxhandsome1@gmail.com <br>
+          Telefone: 02799761-1547
+            </th>
         </tr>
-       </table> 
+        </td>
      <hr>
      <td>
         <table>
@@ -35,7 +32,8 @@
             <li>Inglês</li>
             </ul>
             <h1>Educação</h1>
-            <table border="1">
+            <td>
+            <table border="1" align="center">
                 <tr style="background-color: rgb(138, 37, 37); color:rgb(255, 255, 255)">
                     <th>Universidade</th>
                     <th>Formação de curso</th>
@@ -44,23 +42,27 @@
                     <td>UVV</td>
                     <td>Em andamento</td>
                 </tr>
-            </table>
+            </table>    
             <h1>Projeto</h1>
     <ul>
         <li>
             Este é um projeto de desenvolvimento web na qual criei um site/portfólio usando a <br> tecologia backend HTML.</li>
             <li>Este é um projeto baseado em HTML.</li>
         </ul>
-        </table>
      </td>
+    <table>
+    <td>
      <h1>Social</h1>
      <a href="https://www.instagram.com/hugovwx/" target="_blank">
-        <img src="https://marcas-logos.net/wp-content/uploads/2020/01/instagram_icon_logo.png" width="155px" alt="Instagram" >
+        <img src="https://marcas-logos.net/wp-content/uploads/2020/01/instagram_icon_logo.png" width="120px" alt="Instagram" >
     </a>
     <a href="https://github.com/HughCoding" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-512.png" width="100px" alt="Github">
+    <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-512.png" width="73spx" alt="Github">
     </a>
-
+    </table>
+</body>
+    
+    
     
            
             
