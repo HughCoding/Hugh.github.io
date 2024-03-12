@@ -26,7 +26,7 @@
                 <li>Capacidade de adaptação</li>
                 <li>Capacidade de análise</li>
             </ul>
-            <h1>Línguas</h1>
+            <h1>Linguagens</h1>
             <ul>
             <li>Português</li>
             <li>Inglês</li>
