@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T23:14:53.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="-Ji-y-zdRMcfjo9eBoMw" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T23:21:42.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="DGyPdicgryAOv3fPLbxU" version="24.0.5" type="github">
   <diagram name="Página-1" id="OtJdkd_mgUjUleAWCbfk">
-    <mxGraphModel dx="1335" dy="4291" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="4614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,8 +150,8 @@
         <mxCell id="7JBt_EFhGPmMdVdtHZGK-117" value="Vôlei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="605" y="-2550" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7JBt_EFhGPmMdVdtHZGK-118" value="Jogar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="684" y="-2550" width="50" height="30" as="geometry" />
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-118" value="Assistir filmes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="669" y="-2548" width="91" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7JBt_EFhGPmMdVdtHZGK-119" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
           <mxGeometry x="20" y="-2906" width="20" height="20" as="geometry" />
@@ -197,6 +197,26 @@
         </mxCell>
         <mxCell id="7JBt_EFhGPmMdVdtHZGK-197" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;dashed=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#009999;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="634" y="-3392.5" width="19" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-198" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=0;strokeColor=#FFFFFF;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=#009999;" vertex="1" parent="1">
+          <mxGeometry x="1273" y="-2283" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-199" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;" edge="1" parent="7JBt_EFhGPmMdVdtHZGK-198" source="7JBt_EFhGPmMdVdtHZGK-201" target="7JBt_EFhGPmMdVdtHZGK-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-200" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;" edge="1" parent="7JBt_EFhGPmMdVdtHZGK-198" source="7JBt_EFhGPmMdVdtHZGK-201" target="7JBt_EFhGPmMdVdtHZGK-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Organization" treeRoot="1" id="7JBt_EFhGPmMdVdtHZGK-201">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=0;strokeColor=#FFFFFF;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=#009999;" vertex="1" parent="7JBt_EFhGPmMdVdtHZGK-198">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-202" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=#009999;" vertex="1" parent="7JBt_EFhGPmMdVdtHZGK-198">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7JBt_EFhGPmMdVdtHZGK-203" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};dashed=0;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#ffffff;fillColor=#009999;" vertex="1" parent="7JBt_EFhGPmMdVdtHZGK-198">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
